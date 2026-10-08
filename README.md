@@ -23,8 +23,8 @@ In this course I learned how to:
 | Word | Writing and finalizing our memo |
 
 ## 📂 Files Used
-- `[first-file-name.xlsx]` – [one-line description of what it is]
-- `[second-file-name.docx]` – [one-line description of what it is]
+- [B12_G06_P01_DRAFT.docx](B12_G06_P01_DRAFT.docx) – Draft of my group project paper
+- [B13_G06_P01.pdf](B13_G06_P01.pdf) – Final version of our project
 - `README.md` – the file you're reading right now!
 
 ## ▶️ How to Run Program
