@@ -32,3 +32,6 @@ In this course I learned how to:
 2. Click **Download raw file** (the download icon) to save it.
 3. Open it with **Word or a pdf reader**.
 
+##  Additional Information
+Thanks for looking at my first repository!
+
